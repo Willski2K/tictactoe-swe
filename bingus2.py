@@ -1,1 +1,3 @@
-print("Hello")
+def do():
+    print('boo')
+do()
