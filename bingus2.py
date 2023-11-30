@@ -1,3 +1,5 @@
-def do():
-    print('boo')
-do()
+
+def ol():
+    print('hej')
+ol()
+>>>>>>> marcus_ai2
